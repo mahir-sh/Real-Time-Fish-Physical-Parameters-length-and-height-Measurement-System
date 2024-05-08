@@ -1,5 +1,5 @@
 # Real-Time-Fish-Physical-Parameters-length-and-height-Measurement-System
- Analyse and explore the literature in detail of existing projects.  • Develop a research structure for the project.  • Develop an artificial intelligence based program to execute the project.  • Implement hardware to support the program.  • Increase the accuracy of existing technology
+Final Year Capstone Project 
 
 
 
@@ -13,3 +13,12 @@
  tank should be gathered to maintain the proper health of the fish. It is utterly impossible to
  observe all fish length manually. Our real time fish length detection system will eradicate all
  of the above problem and provide accurate data of fish length
+
+
+Team Member
+Mahir Shahriyar
+Soumik Ahmed Shirsho
+Nuzhat Zahan
+Nowmin Naj Manisha
+
+Video Presentation https://youtu.be/XcAuGBVttJQ
